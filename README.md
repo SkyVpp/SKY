@@ -1,20 +1,15 @@
 ## SKYVPN
 
-> SKYVPN 帮您快速、便捷、自由地访问互联网。一键科学上网。
+> 蓝天VPN 帮您安全、便捷、自由地访问互联网,一键科学上网。
 ------
 
 最新版下载地址：
 - [官网下载](https://raw.githubusercontent.com/SkyVpp/SKY/master/rel/launcher-sk_main-release.apk "官网下载")  
 
+- ![](https://uploads-ssl.webflow.com/5a88babea6e0f90001b39b0d/5bebc295fb29cc0b02b83f9f_5a8a3eab54ea7a00014661b0_APK.png)(https://raw.githubusercontent.com/SkyVpp/SKY/master/rel/launcher-sk_main-release.apk)  
 
 
-在当前VPN的大环境下，
-- 还有多少个VPN能用？
-- 还有多少个VPN免费？
-- 还有多少个同行活着？
 
-
-**这个行业这么不好混，能坚持的都是勇士，不需要的请不要抹杀**
 
 ## SKYVPN的原则：
 - 安全快速，一键使用
@@ -26,4 +21,4 @@
 
 如果您不喜欢不满意，欢迎提出宝贵意见，有机会获得额外奖励。
 
-如果您和SKY小伙伴一样有更宽广的视野。请您珍惜这份美好。
+如果您和蓝天VPN小伙伴一样有更宽广的视野。请您珍惜这份美好。
