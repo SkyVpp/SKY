@@ -4,9 +4,11 @@
 ------
 
 最新版下载地址：
+
 - [官网下载](https://raw.githubusercontent.com/SkyVpp/SKY/master/rel/launcher-sk_main-release.apk "官网下载")  
 
-- ![](https://uploads-ssl.webflow.com/5a88babea6e0f90001b39b0d/5bebc295fb29cc0b02b83f9f_5a8a3eab54ea7a00014661b0_APK.png)(https://raw.githubusercontent.com/SkyVpp/SKY/master/rel/launcher-sk_main-release.apk)  
+[![下载](https://uploads-ssl.webflow.com/5a88babea6e0f90001b39b0d/5bebc295fb29cc0b02b83f9f_5a8a3eab54ea7a00014661b0_APK.png "下载")](https://raw.githubusercontent.com/SkyVpp/SKY/master/rel/launcher-sk_main-release.apk)
+
 
 
 
